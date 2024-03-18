@@ -1,0 +1,1 @@
+import{e as n,o as t,c as a,a as e,t as c,u as _,_ as r}from"./app-bWgr7lir.js";function i(){return{name:"reco"}}const m={class:"demo-container"},d={style:{}},u=e("p",null,"This is a vue preview demo.",-1),p=n({__name:"demo",setup(o){const{name:s}=i();return(l,f)=>(t(),a("div",m,[e("h3",d,"My name is "+c(_(s))+".",1),u]))}}),v=r(p,[["__file","demo.vue"]]);export{v as default};
